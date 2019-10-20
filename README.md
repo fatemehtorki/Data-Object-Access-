@@ -12,5 +12,5 @@ Dbase class is written for create a connection of database.
 
 
 ## Authors
-*Fatemeh Torki
+*Fatemeh Torki/@fatemehtorki
 *Sobhan Nami
