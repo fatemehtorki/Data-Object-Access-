@@ -13,10 +13,7 @@ GoodLuck :+1:
 
 
 ## Authors 
- 1.Fatemeh Torki/@fatemehtorki 
- 
-2.Sobhan Nami
-  
+
 Fatemeh Torki/@fatemehtorki 
  
 Sobhan Nami
