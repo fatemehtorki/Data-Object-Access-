@@ -13,5 +13,12 @@ GoodLuck :+1:
 
 
 ## Authors 
-*Fatemeh Torki/@fatemehtorki 
-*Sobhan Nami
+ Fatemeh Torki/@fatemehtorki 
+    - First nested list item
+    - Second nested list item
+*
+Sobhan Nami
+    - First nested list item
+    - Second nested list item
+*
+
