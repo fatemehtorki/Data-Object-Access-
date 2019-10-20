@@ -6,10 +6,9 @@ By executing this script and calling two functions ***productFileAccess*** and *
 
 ## Usage
 
-```php
 put and run  this script in your project.
 Dbase class is written for create a connection of database.
-```
+
 
 
 ## Authors
